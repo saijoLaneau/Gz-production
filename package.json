@@ -1,5 +1,6 @@
 {
   "name": "gzweb",
+  "homepage": "https://USERNAME.github.io/Gz-production",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,7 +8,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "expo": "^54.0.12",
@@ -30,4 +33,5 @@
     "tailwindcss": "^4.1.12",
     "vite": "^7.1.2"
   }
+  
 }
