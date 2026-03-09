@@ -10,8 +10,8 @@ const portfolio = [
     year: 2025,
     date: "12 mars 2025",
     location: "Lisbonne, Portugal",
-    cover: "/media/Cover_Cedric.jpg",
-    videoMp4: "/media/Cedric_vs_Benfica.mp4",
+    cover: "media/Cover_Cedric.jpg",
+    videoMp4: "media/Cedric_vs_Benfica.mp4",
     links: {
       instagram: "https://www.instagram.com/p/DOGsNeHCJhI/",
     },
@@ -24,8 +24,8 @@ const portfolio = [
     year: 2025,
     date: "12 mars 2025",
     location: "Bruxelles, Belgique",
-    cover: "/media/Cover_Pedro.jpg",
-    videoMp4: "/media/Pinto_vs_Meux.mp4",
+    cover: "media/Cover_Pedro.jpg",
+    videoMp4: "media/Pinto_vs_Meux.mp4",
   },
   {
     title: "Bilal Bafdili vs KAA Gent – Highlights",
@@ -35,8 +35,8 @@ const portfolio = [
     year: 2025,
     date: "12 mars 2025",
     location: "Mechelen, Belgique",
-    cover: "/media/Cover_Bilal.jpg",
-    videoMp4: "/media/Bilal_vs_Gand.mp4",
+    cover: "media/Cover_Bilal.jpg",
+    videoMp4: "media/Bilal_vs_Gand.mp4",
   },
   {
     title: "Zaid Bafdili signature SCP",
@@ -46,8 +46,8 @@ const portfolio = [
     year: 2025,
     date: "12 mars 2025",
     location: "Lisbonne, Portugal",
-    cover: "/media/Zaid_Signature.jpg",
-    videoMp4: "/media/Zaid_signature.mp4",
+    cover: "media/Zaid_Signature.jpg",
+    videoMp4: "media/Zaid_signature.mp4",
   },
   {
     title: "Zaid Bafdili Training",
@@ -57,8 +57,8 @@ const portfolio = [
     year: 2025,
     date: "12 mars 2025",
     location: "Bruxelles, Belgique",
-    cover: "/media/poster.jpg",
-    videoMp4: "/media/Zaid_Training.mp4",
+    cover: "media/poster.jpg",
+    videoMp4: "media/Zaid_Training.mp4",
   },
   {
     title: "Dalil Bafdili Training",
@@ -68,8 +68,8 @@ const portfolio = [
     year: 2025,
     date: "12 mars 2025",
     location: "Bruxelles, Belgique",
-    cover: "/media/poster.jpg",
-    videoMp4: "/media/Dalil_entrainement.mp4",
+    cover: "media/poster.jpg",
+    videoMp4: "media/Dalil_entrainement.mp4",
   },
   {
     title: "Saijo - Patrick Bruel (Clip officiel)",
@@ -79,8 +79,8 @@ const portfolio = [
     year: 2025,
     date: "12 mars 2025",
     location: "Bruxelles, Belgique",
-    cover: "/media/poster.jpg",
-    videoMp4: "/media/Saijo_patrick_bruel.mp4",
+    cover: "media/poster.jpg",
+    videoMp4: "media/Saijo_patrick_bruel.mp4",
   },
 ];
 
