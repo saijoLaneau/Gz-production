@@ -57,7 +57,7 @@ const portfolio = [
     year: 2025,
     date: "12 mars 2025",
     location: "Bruxelles, Belgique",
-    cover: "media/poster.jpg",
+    cover: "media/ZaidTraining.jpg",
     videoMp4: "media/Zaid_Training.mp4",
   },
   {
@@ -68,7 +68,7 @@ const portfolio = [
     year: 2025,
     date: "12 mars 2025",
     location: "Bruxelles, Belgique",
-    cover: "media/poster.jpg",
+    cover: "media/DalilTraining.jpg",
     videoMp4: "media/Dalil_entrainement.mp4",
   },
   {
@@ -79,7 +79,7 @@ const portfolio = [
     year: 2025,
     date: "12 mars 2025",
     location: "Bruxelles, Belgique",
-    cover: "media/poster.jpg",
+    cover: "media/saijoPatrick.jpg",
     videoMp4: "media/Saijo_patrick_bruel.mp4",
   },
 ];
